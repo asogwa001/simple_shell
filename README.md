@@ -1,1 +1,1 @@
-Implementation of Simple Shell in C
+Simple Shell in C
